@@ -15,7 +15,7 @@
 </p>
 
 ### ⭐ My Goal:
-<p>I will do my best for allowing any code that I create, to be accessed through the GitHub/Replit Community! Along with scratching every error that I try and fix!</p>
+<p>I will do my best for allowing any code that I create, to be accessed through the GitHub/Replit Community, and into the World Wide Web! Along with scratching every error that I try and fix!</p>
 
 ### ❤ Interests (Outside of Coding):
 <p>Gaming, Photography, Space/Astronomy, Nature, Golf, Baseball, Music, Video Making/Editing, Cooking.</p>
