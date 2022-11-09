@@ -14,3 +14,6 @@
    <img src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white" alt="Windows">
 </p>
 
+### ⭐ My Goal:
+<p>I will do my best for allowing any code that I create, to be accessed through the GitHub/Replit Community! Along with scratching every error that I try and fix!</p>
+
