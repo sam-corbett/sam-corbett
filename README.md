@@ -20,4 +20,3 @@
 ### ❤ Interests (Outside of Coding):
 <p>Gaming, Photography, Space/Astronomy, Nature, Golf, Baseball, Music, Video Making/Editing, Cooking.</p>
 
-### 📬 Contact Me!:
