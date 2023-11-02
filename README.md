@@ -1,14 +1,14 @@
 # **Hello Hello! 👋🤓**
 <p>I'm Sam Corbett, a Computer Science student from <a href="http://mths.ca">St. Mother Teresa HS</a>, Ottawa, Canada.</p>
 
-### 💾 Old Programming Languages:
+### 💾 Older Programming Languages:
 <p>
  <a href="https://github.com/search?q=user%3Asam-corbett+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
  <a href="https://github.com/search?q=user%3Asam-corbett+language%3Acss"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
  <a href="https://github.com/search?q=user%3Asam-corbett+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
 </p>
 
-### 💿 New Programming Languages:
+### 💿 Current Programming Languages:
 <p>
  <a href="https://github.com/search?q=user%3Asam-corbett+language%3Ajavascript"><img alt="Python" src="https://img.shields.io/badge/python-3670A0?logo=python&logoColor=ffdd54"></a>
  <a href="https://github.com/search?q=user%3Asam-corbett+language%3Ajavascript"><img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?logo=c&logoColor=white"></a>
@@ -24,7 +24,7 @@
 <p>Making amazing programs as an amazing person!</p>
 
 ### ❤ Interests (Outside of Coding):
-<p>Gaming, Photography, Space/Astronomy, Nature, Golf, Wii Homebrewing, Music, Video Making/Editing, Cooking.</p>
+<p>Gaming, Photography, Space/Astronomy, Nature, Golf, <img src="https://img.shields.io/badge/Wii-8B8B8B?logo=wii&logoColor=white"> Homebrewing, Music, Video Making/Editing, Cooking.</p>
 
 ### 🤩 Here's Four Really Cool Gifs:
 <p>
