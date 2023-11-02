@@ -26,9 +26,10 @@
 ### ❤ Interests (Outside of Coding):
 <p>Gaming, Photography, Space/Astronomy, Nature, Golf, Wii Homebrewing, Music, Video Making/Editing, Cooking.</p>
 
-### 🤩 Here's Three Really Cool Gifs:
+### 🤩 Here's Four Really Cool Gifs:
 <p>
  <img src="https://i.pinimg.com/originals/a3/e1/46/a3e1462ce283d8694e0458336d1c0e59.gif" width=300 height=300 alt="stars" /> 
   <img src="https://www.icegif.com/wp-content/uploads/satisfying-icegif-1.gif" width=300 height=300 alt="bounce" />
-   <img src="https://i.imgur.com/Kh2Osoy.gif" width=300 height=300 alt="lego" />
+   <img src="https://64.media.tumblr.com/7ebcfbf214ecbbe54d138090ac461ba8/tumblr_nu4x4pDGYD1tjryj4o1_500.gif" width=300 height=300 alt="cool" />
+    <img src="https://cdn.booooooom.com/wp-content/uploads/2017/06/dave-whyte-15.gif" width=300 height=300 alt="triangle" />
 </p>
