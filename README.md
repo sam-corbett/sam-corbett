@@ -35,7 +35,7 @@
 <p>Making amazing programs as an amazing person!</p>
 
 ### ❤ Interests (Outside of Coding):
-<p>Gaming, Photography, Space/Astronomy, Nature, Golf, <img src="https://img.shields.io/badge/Wii-8B8B8B?logo=wii&logoColor=white"> Homebrewing, Music, Video Making/Editing, Cooking.</p>
+<p>Gaming, Photography, Space/Astronomy, Nature, Golf, <img src="https://img.shields.io/badge/Wii-8B8B8B?logo=wii&logoColor=white"> Homebrewing, Music, Video Making/Editing.</p>
 
 ### 🤩 Here's Four Really Cool Gifs:
 <p>
