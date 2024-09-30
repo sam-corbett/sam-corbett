@@ -12,8 +12,8 @@
 
 ### 💿 Current Programming Languages I'm learning:
 <p>
- <a href="https://github.com/search?q=user%3Asam-corbett+language%3Ajavascript"><img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"></a>
- <a href="https://github.com/search?q=user%3Asam-corbett+language%3Ajavascript"><img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"></a>
+ <a href="https://github.com/search?q=user%3Asam-corbett+language%3Ajavascript"><img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?logo=typescript&logoColor=white"></a>
+ <a href="https://github.com/search?q=user%3Asam-corbett+language%3Ajavascript"><img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?logo=openjdk&logoColor=white"></a>
 </p>
 
 ### 🖥️ Operating Systems / Services:
@@ -27,8 +27,8 @@
 
 ### 📝 Editing Tools:
 <p>
- <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code">
- <img src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white" alt="NeoVim">
+ <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white" alt="VS Code">
+ <img src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&logo=neovim&logoColor=white" alt="NeoVim">
 </p>
 
 ### ⭐ My Goal:
