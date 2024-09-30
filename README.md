@@ -6,12 +6,14 @@
  <a href="https://github.com/search?q=user%3Asam-corbett+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
  <a href="https://github.com/search?q=user%3Asam-corbett+language%3Acss"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
  <a href="https://github.com/search?q=user%3Asam-corbett+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
+ <a href="https://github.com/search?q=user%3Asam-corbett+language%3Ajavascript"><img alt="Python" src="https://img.shields.io/badge/python-3670A0?logo=python&logoColor=ffdd54"></a>
+ <a href="https://github.com/search?q=user%3Asam-corbett+language%3Ajavascript"><img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?logo=c&logoColor=white"></a>
 </p>
 
 ### 💿 Current Programming Languages:
 <p>
- <a href="https://github.com/search?q=user%3Asam-corbett+language%3Ajavascript"><img alt="Python" src="https://img.shields.io/badge/python-3670A0?logo=python&logoColor=ffdd54"></a>
- <a href="https://github.com/search?q=user%3Asam-corbett+language%3Ajavascript"><img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?logo=c&logoColor=white"></a>
+ <a href="https://github.com/search?q=user%3Asam-corbett+language%3Ajavascript"><img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"></a>
+ <a href="https://github.com/search?q=user%3Asam-corbett+language%3Ajavascript"><img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"></a>
 </p>
 
 ### 🖥️ Operating Systems:
